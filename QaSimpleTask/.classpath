@@ -8,9 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
-			<attribute name="test" value="true"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
@@ -23,69 +23,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/animal-sniffer-annotations-1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/ant-1.9.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/ant-launcher-1.9.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/appium-3.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/asm-6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/aspectjweaver-1.9.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/auto-value-annotations-1.6.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/bsh-2.0b6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/cglib-3.2.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/checker-compat-qual-2.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/checker-qual-2.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-beanutils-1.9.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-collections-3.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-digester-1.8.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-io-2.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-lang3-3.8.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-text-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/commons-validator-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/configs-1.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/diffutils-1.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/error_prone_annotations-2.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/error-1.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/failureaccess-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/gson-2.8.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/guava-27.0-jre.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/httpclient-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/httpcore-4.4.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/j2objc-annotations-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/java-client-6.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/jcommander-1.72.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/jsr305-3.0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/listeners-1.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/log4j-api-2.11.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/log4j-core-2.11.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/logger-1.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/opencv-3.2.0-1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-api-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-chrome-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-edge-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-firefox-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-ie-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-java-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-opera-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-remote-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-safari-driver-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/selenium-support-3.141.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/snakeyaml-1.23.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/spring-aop-5.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/spring-beans-5.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/spring-context-5.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/spring-core-5.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/spring-expression-5.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/spring-jcl-5.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/testng-6.14.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AliH4/eclipse/Jarstest/truth-0.42.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
